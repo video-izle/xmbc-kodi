@@ -17,23 +17,6 @@ provider-name="xbmc-VideoIzleIPTV">
 <platform>all</platform>
 </extension>
 </addon>
-<addon id="plugin.video.VideoIzleIPTVyabanci"
-name="[COLOR beige]Video-izle.[/COLOR][COLOR red]TV[/COLOR]"
-version="0.0.2"
-provider-name="VideoIzleIPTV Team">
-<requires>
-<import addon="xbmc.python" version="2.1.0"/>
-</requires>
-<extension point="xbmc.python.pluginsource"
-library="default.py">
-<provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-<summary>VideoIzleIPTV Team Sunar</summary>
-<description>VideoIzleIPTV Team Sunar</description>
-<platform>all</platform>
-</extension>
-</addon>
 <addon id="repository.VideoIzleIPTV" name="VideoIzleIPTV" version="1.0.6" provider-name="VideoIzleIPTV">
 <extension point="xbmc.addon.repository" name="VideoIzleIPTV Addons">
 <info compressed="false">https://raw.githubusercontent.com/video-izle/xmbc-kodi/master/addons.xml</info>
