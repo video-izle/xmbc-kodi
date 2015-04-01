@@ -13,7 +13,7 @@ provider-name="xbmc-VideoIzleIPTV">
     <extension point="xbmc.addon.metadata">
       <summary>VideoIzleIPTV Team Sunar</summary>
       <description>VideoIzleIPTV IPTV .</description>
-      <disclaimer>VideoIzleIPTV IPTV</disclaimer>
+      <disclaimer>VideoIzleIPTV Eklentisi sürekli güncellenmekte ve yeni kanallar eklenmektedir.</disclaimer>
       <platform>all</platform>
     </extension>
   </addon>
