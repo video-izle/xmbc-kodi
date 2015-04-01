@@ -7,3 +7,4 @@ addons_xml_generator.Generator()
 zip_generator.main()
 if __name__ == '__main__':
 make_release()
+kk
