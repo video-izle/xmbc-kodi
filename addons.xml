@@ -1,5 +1,12 @@
 <addons>
+<<<<<<< HEAD
   <addon id="plugin.video.VideoIzleIPTV" name="VideoIzleIPTV" version="0.0.2" provider-name="xbmc-VideoIzleIPTV">
+=======
+  <addon id="plugin.video.VideoIzleIPTV"
+name="VideoIzleIPTV"
+version="0.0.2"
+provider-name="xbmc-VideoIzleIPTV">
+>>>>>>> origin/master
     <requires>
       <import addon="xbmc.metadata" version="1.0"/>
     </requires>
@@ -9,7 +16,11 @@
     <extension point="xbmc.addon.metadata">
       <summary>VideoIzleIPTV Team Sunar</summary>
       <description>EVideoIzleIPTV IPTV .</description>
+<<<<<<< HEAD
       <disclaimer>VideoIzleIPTV IPTV</disclaimer>
+=======
+      <disclaimer>VideoIzleIPTV IPTV </disclaimer>
+>>>>>>> origin/master
       <platform>all</platform>
     </extension>
   </addon>
