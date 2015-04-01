@@ -12,7 +12,7 @@ provider-name="xbmc-VideoIzleIPTV">
     </extension>
     <extension point="xbmc.addon.metadata">
       <summary>VideoIzleIPTV Team Sunar</summary>
-      <description>EVideoIzleIPTV IPTV .</description>
+      <description>VideoIzleIPTV IPTV .</description>
       <disclaimer>VideoIzleIPTV IPTV</disclaimer>
       <platform>all</platform>
     </extension>
